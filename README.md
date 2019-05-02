@@ -1,4 +1,5 @@
 # Macro Keyboard - STM32F103c8t6
+![alt text](https://i.imgur.com/joyodGK.png "MacPill32 Logo")
 This project is based on the STM32 Black Pill, also known as the STM32F103c8t6.
 Uses the STM32duino platform including arpruss's HID library http://www.stm32duino.com/viewtopic.php?t=2926
 
