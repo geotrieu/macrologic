@@ -1,0 +1,6 @@
+*.db
+/LCDAssistant
+/legacy
+/3D Sketches
+*.bin
+*.AD_PART

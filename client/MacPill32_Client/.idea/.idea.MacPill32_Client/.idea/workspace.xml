@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6623d198-b14d-4d1a-90b5-b8ff7dfdc9a5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../MacroKeyboard_v2.ino" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainWindow.xaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MacPills32_Client/MainWindow.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <folding>
+                <marker date="1556989865601" expanded="true" signature="0:1312" ph="&lt;&lt;Border Padding=&quot;20&quot;&gt;&#10;        &lt;StackPanel&gt;&#10;            &lt;!-- Title --&gt;&#10;            &lt;TextBlock Text=&quot;MacPill32 Configuration Client&quot; FontSize=&quot;20&quot; FontWeight=&quot;Bold&quot; Margin=&quot;0 0 0 30&quot; /&gt;&#10;            &#10;            &lt;!-- RGB Values --&gt;&#10;            &lt;TextBlock Text=&quot;Red:&quot; FontWeight=&quot;Bold&quot; /&gt;&#10;            &lt;TextBox Name=&quot;RedTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt;&#10;            &lt;TextBlock Text=&quot;Green:&quot; FontWeight=&quot;Bold&quot; /&gt;&#10;            &lt;TextBox Name=&quot;GreenTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt;&#10;            &lt;TextBlock Text=&quot;Blue:&quot; FontWeight=&quot;Bold&quot; /&gt;&#10;            &lt;TextBox Name=&quot;BlueTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt;&#10;            &#10;            &lt;!-- Send Button --&gt;&#10;            &lt;Button x:Name=&quot;SendButton&quot; Click=&quot;SendButton_OnClick&quot; Content=&quot;Send&quot;&gt;&lt;/Button&gt;&#10;            &#10;        &lt;/StackPanel&gt;&#10;    &lt;/Border&gt;.../&gt;" />
+                <marker date="1556989865601" expanded="true" signature="473:1302" ph="&lt;&lt;StackPanel&gt;&#10;            &lt;!-- Title --&gt;&#10;            &lt;TextBlock Text=&quot;MacPill32 Configuration Client&quot; FontSize=&quot;20&quot; FontWeight=&quot;Bold&quot; Margin=&quot;0 0 0 30&quot; /&gt;&#10;            &#10;            &lt;!-- RGB Values --&gt;&#10;            &lt;TextBlock Text=&quot;Red:&quot; FontWeight=&quot;Bold&quot; /&gt;&#10;            &lt;TextBox Name=&quot;RedTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt;&#10;            &lt;TextBlock Text=&quot;Green:&quot; FontWeight=&quot;Bold&quot; /&gt;&#10;            &lt;TextBox Name=&quot;GreenTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt;&#10;            &lt;TextBlock Text=&quot;Blue:&quot; FontWeight=&quot;Bold&quot; /&gt;&#10;            &lt;TextBox Name=&quot;BlueTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt;&#10;            &#10;            &lt;!-- Send Button --&gt;&#10;            &lt;Button x:Name=&quot;SendButton&quot; Click=&quot;SendButton_OnClick&quot; Content=&quot;Send&quot;&gt;&lt;/Button&gt;&#10;            &#10;        &lt;/StackPanel&gt;.../&gt;" />
+                <marker date="1556989865601" expanded="true" signature="503:1288" ph="&lt;&lt;TextBlock Text=&quot;MacPill32 Configuration Client&quot; FontSize=&quot;20&quot; FontWeight=&quot;Bold&quot; Margin=&quot;0 0 0 30&quot; /&gt; &lt;TextBlock Text=&quot;Red:&quot; FontWeight=&quot;Bold&quot; /&gt; &lt;TextBox Name=&quot;RedTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt; &lt;TextBlock Text=&quot;Green:&quot; FontWeight=&quot;Bold&quot; /&gt; &lt;TextBox Name=&quot;GreenTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt; &lt;TextBlock Text=&quot;Blue:&quot; FontWeight=&quot;Bold&quot; /&gt; &lt;TextBox Name=&quot;BlueTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt; &lt;Button x:Name=&quot;SendButton&quot; Click=&quot;SendButton_OnClick&quot; Content=&quot;Send&quot;&gt;&lt;/Button&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainWindow.xaml.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MacPills32_Client/MainWindow.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <marker date="1556990157331" expanded="true" signature="6:58" ph="..." />
+                <marker date="1556990157331" expanded="true" signature="87:870" ph="{...}" />
+                <marker date="1556990157331" expanded="true" signature="94:172" ph="/// Interaction logic for MainWindow.xaml ... " />
+                <marker date="1556990157331" expanded="true" signature="208:868" ph="{...}" />
+                <marker date="1556990157331" expanded="true" signature="354:593" ph="{...}" />
+                <marker date="1556990157331" expanded="true" signature="416:480" ph="{...}" />
+                <marker date="1556990157331" expanded="true" signature="511:583" ph="{...}" />
+                <marker date="1556990157331" expanded="true" signature="668:862" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MacPills32_Client/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MacPills32_Client/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MacPills32_Client/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MacPills32_Client/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/MacPills32_Client/MainWindow.xaml.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="640" />
+    <option name="height" value="984" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MacPill32_Client (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MacPill32_Client (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MacPills32_Client" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MacPill32_Client (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MacPills32_Client" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MainWindow.xaml" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MacPills32_Client/bin/Debug/MacPills32_Client.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MacPills32_Client/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MacPills32_Client/MacPills32_Client.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6623d198-b14d-4d1a-90b5-b8ff7dfdc9a5" name="Default" comment="" />
+      <created>1556987977054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556987977054</updated>
+      <workItem from="1556987979038" duration="3434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3434000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info id="XAML Preview" order="3" side_tool="true" visible="true" weight="0.40210357" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.32908458" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32908458" />
+      <window_info anchor="bottom" id="NuGet" order="5" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.24919094" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32908458" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MacPills32_Client/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <marker date="1556988059606" expanded="true" signature="0:375" ph="&lt;&lt;Application.Resources&gt;&#10;         &#10;    &lt;/Application.Resources&gt;.../&gt;" />
+            <marker date="1556988059606" expanded="true" signature="298:360" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MacPills32_Client/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <marker date="1556989865601" expanded="true" signature="0:1312" ph="&lt;&lt;Border Padding=&quot;20&quot;&gt;&#10;        &lt;StackPanel&gt;&#10;            &lt;!-- Title --&gt;&#10;            &lt;TextBlock Text=&quot;MacPill32 Configuration Client&quot; FontSize=&quot;20&quot; FontWeight=&quot;Bold&quot; Margin=&quot;0 0 0 30&quot; /&gt;&#10;            &#10;            &lt;!-- RGB Values --&gt;&#10;            &lt;TextBlock Text=&quot;Red:&quot; FontWeight=&quot;Bold&quot; /&gt;&#10;            &lt;TextBox Name=&quot;RedTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt;&#10;            &lt;TextBlock Text=&quot;Green:&quot; FontWeight=&quot;Bold&quot; /&gt;&#10;            &lt;TextBox Name=&quot;GreenTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt;&#10;            &lt;TextBlock Text=&quot;Blue:&quot; FontWeight=&quot;Bold&quot; /&gt;&#10;            &lt;TextBox Name=&quot;BlueTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt;&#10;            &#10;            &lt;!-- Send Button --&gt;&#10;            &lt;Button x:Name=&quot;SendButton&quot; Click=&quot;SendButton_OnClick&quot; Content=&quot;Send&quot;&gt;&lt;/Button&gt;&#10;            &#10;        &lt;/StackPanel&gt;&#10;    &lt;/Border&gt;.../&gt;" />
+            <marker date="1556989865601" expanded="true" signature="473:1302" ph="&lt;&lt;StackPanel&gt;&#10;            &lt;!-- Title --&gt;&#10;            &lt;TextBlock Text=&quot;MacPill32 Configuration Client&quot; FontSize=&quot;20&quot; FontWeight=&quot;Bold&quot; Margin=&quot;0 0 0 30&quot; /&gt;&#10;            &#10;            &lt;!-- RGB Values --&gt;&#10;            &lt;TextBlock Text=&quot;Red:&quot; FontWeight=&quot;Bold&quot; /&gt;&#10;            &lt;TextBox Name=&quot;RedTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt;&#10;            &lt;TextBlock Text=&quot;Green:&quot; FontWeight=&quot;Bold&quot; /&gt;&#10;            &lt;TextBox Name=&quot;GreenTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt;&#10;            &lt;TextBlock Text=&quot;Blue:&quot; FontWeight=&quot;Bold&quot; /&gt;&#10;            &lt;TextBox Name=&quot;BlueTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt;&#10;            &#10;            &lt;!-- Send Button --&gt;&#10;            &lt;Button x:Name=&quot;SendButton&quot; Click=&quot;SendButton_OnClick&quot; Content=&quot;Send&quot;&gt;&lt;/Button&gt;&#10;            &#10;        &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1556989865601" expanded="true" signature="503:1288" ph="&lt;&lt;TextBlock Text=&quot;MacPill32 Configuration Client&quot; FontSize=&quot;20&quot; FontWeight=&quot;Bold&quot; Margin=&quot;0 0 0 30&quot; /&gt; &lt;TextBlock Text=&quot;Red:&quot; FontWeight=&quot;Bold&quot; /&gt; &lt;TextBox Name=&quot;RedTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt; &lt;TextBlock Text=&quot;Green:&quot; FontWeight=&quot;Bold&quot; /&gt; &lt;TextBox Name=&quot;GreenTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt; &lt;TextBlock Text=&quot;Blue:&quot; FontWeight=&quot;Bold&quot; /&gt; &lt;TextBox Name=&quot;BlueTextBox&quot; Padding=&quot;2&quot; Margin=&quot;0 0 0 10&quot;&gt;&lt;/TextBox&gt; &lt;Button x:Name=&quot;SendButton&quot; Click=&quot;SendButton_OnClick&quot; Content=&quot;Send&quot;&gt;&lt;/Button&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MacPills32_Client/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <marker date="1556990157331" expanded="true" signature="6:58" ph="..." />
+            <marker date="1556990157331" expanded="true" signature="87:870" ph="{...}" />
+            <marker date="1556990157331" expanded="true" signature="94:172" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1556990157331" expanded="true" signature="208:868" ph="{...}" />
+            <marker date="1556990157331" expanded="true" signature="354:593" ph="{...}" />
+            <marker date="1556990157331" expanded="true" signature="416:480" ph="{...}" />
+            <marker date="1556990157331" expanded="true" signature="511:583" ph="{...}" />
+            <marker date="1556990157331" expanded="true" signature="668:862" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

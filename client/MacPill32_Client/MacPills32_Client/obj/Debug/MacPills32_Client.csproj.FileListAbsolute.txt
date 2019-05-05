@@ -1,0 +1,14 @@
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\bin\Debug\MacPills32_Client.exe.config
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\bin\Debug\MacPills32_Client.exe
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\bin\Debug\MacPills32_Client.pdb
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\obj\Debug\MacPills32_Client.csprojResolveAssemblyReference.cache
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\obj\Debug\MainWindow.g.cs
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\obj\Debug\App.g.cs
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\obj\Debug\MacPills32_Client_MarkupCompile.cache
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\obj\Debug\MacPills32_Client_MarkupCompile.lref
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\obj\Debug\MainWindow.baml
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\obj\Debug\MacPills32_Client.g.resources
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\obj\Debug\MacPills32_Client.Properties.Resources.resources
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\obj\Debug\MacPills32_Client.csproj.GenerateResource.Cache
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\obj\Debug\MacPills32_Client.exe
+C:\Users\GeoUser\Documents\Projects\MacPill32\client\MacPill32_Client\MacPills32_Client\obj\Debug\MacPills32_Client.pdb
