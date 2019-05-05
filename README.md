@@ -8,10 +8,9 @@ This project is currently a work in progress.
 - 08/24/2018: First Commit, USB HID Functionality. (LEGACY, found in uVision branch)
 - 04/30/2019: Converted to STM32duino platform, with support for WS2812B leds, serial communication, and USB HID functionality.
 - 05/05/2019: 
-
-General: Reorganized File Structure
-Firmware: Added OLED support, Patterns for LEDs, Added PB0 Button
-Client: Basic Color Client created
+  - General: Reorganized File Structure
+  - Firmware: Added OLED support, Patterns for LEDs, Added PB0 Button
+  - Client: Basic Color Client created
 
 ## Materials used so far:
 - STM32F103c8t6
