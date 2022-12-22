@@ -1,6 +1,6 @@
 *.db
-/LCDAssistant
-/legacy
-/3D Sketches
+\.idea
+\.settings
 *.bin
+*.launch
 *.AD_PART
